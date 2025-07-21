@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshit Sriavastava</h1>
+<h1 align="center">Hi 👋, I'm Harshit Srivastava</h1>
 <h3 align="center">A Computer Science student specializing in AI, passionate about frontend development, data-driven applications, and building impactful user experiences.</h3>
 
 - 🔭 I’m currently working on [📄 Intelligent Research Companion](https://github.com/Harshitsri170/intelligent-research-companion)
